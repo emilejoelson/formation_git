@@ -46,10 +46,12 @@ Pour pouvoir travailler séparément sur des features différentes on utilise de
 ### Mission 1 : Créer une branche
 
 * Créer une branche et place toi sur cette nouvelle branche
+ => git checkout feature1
 * Vérifie que cette branche est bien sélectionnée
 * Effectuer des modifications sur la nouvelle branche
 * Validation des changements
 * Retour à la branche principale 
 * Fusion des branches / Résolution des conflits (si nécessaire) 
+=> La solution pour faire cela c'est la resolution manuel en acceptant la fonctionalité important parmi les deux branches(c'est un choix)
 * Vérification de la fusion
 * Nettoyage
