@@ -8,9 +8,10 @@ Avant de pouvoir utiliser Git, il y a quelques configuration à faire.
 Pour que les modifications que tu feras sur le repository soient identifiables, il faut fournir un nom et une adresse email. Pour faire cette configuration, ouvre GitBash (ou un terminal pour Mac/Linux) et entre les commandes suivantes en remplaçant nom et adresse email :
 
 `git config --global user.name "<votre nom>"`
-
+=> git config --global user.name "ANDRIAMIHAJA Joeson Emile"
+ggg
 `git config --global user.email "<votre adresse email>"`
-
+=> git config --global user.email "122634018+emilejoelson@users.noreply.github.com"
 Git sait maintenant qui tu es et le nom choisi sera associé aux modifications que tu feras.
 
 ### Clone du repo

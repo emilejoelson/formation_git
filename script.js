@@ -17,6 +17,7 @@ add.addEventListener("click" , ()=>{
     paragraph.addEventListener('dblclick', ()=>{
         list.removeChild(paragraph);
     })
+    hhhh
     
 
    
